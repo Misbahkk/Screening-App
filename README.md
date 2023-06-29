@@ -3,6 +3,10 @@ The Screening App is a web application designed to streamline the screening proc
 # Project Demo
 
 
+
+https://github.com/Misbahkk/Screening-App/assets/107263622/5b3b4c06-ae32-4c01-8350-0b6f1acdf02a
+
+
 # Features
 - User-friendly interface: The app utilizes HTML, CSS, and Bootstrap to create a visually appealing and intuitive user interface.
 - Input form: Users can enter relevant information or answer specific questions required for the screening process.
